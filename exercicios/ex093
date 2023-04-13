@@ -1,0 +1,37 @@
+dadosJogador = {}
+gols = []
+totalDeGols = 0
+print('\n\n')
+dadosJogador["nome"] = str(input('Digite o nome do Jogador: >>>  ')).strip().capitalize()
+dadosJogador["partidas"] = int(input('\nQuantidade de partidas:  >>>  '))
+
+print('')
+
+for c in range (0,dadosJogador['partidas']):
+    gols.append(int(input(f'Quantos gols o jogador {dadosJogador["nome"]} fez na {c+1} partida?  >>>  ')))
+
+dadosJogador["gols"] = gols
+
+print('')
+print('=-'*30)
+print(dadosJogador)
+print('=-'*30)
+print('')
+for r ,f in dadosJogador.items():
+    print(f'O campo {r} tem valor: {f}')
+
+print('')
+print('=-'*30)
+print(f'O jogador {dadosJogador["nome"]} jogou {dadosJogador["partidas"]} partidas. ')
+
+for x in range(0, dadosJogador['partidas']):
+    print(f'  => Na {x+1}º partida fez {dadosJogador["gols"][x]} gols ')
+
+for m in range(0, dadosJogador['partidas']):
+    totalDeGols = totalDeGols + dadosJogador['gols'][m]
+
+print(f'\nO jogador {dadosJogador["nome"]} fez um total de {totalDeGols} gols nesse campeonato')
+
+print('\n\n')
+print(f'\033[41m{" Programa encerrado ":^90}\033[m')
+print('\n\n')
