@@ -2,7 +2,7 @@
 
 # jogo da adivinhação.  criar um game que a maquina pense em um numero de 0 a 10 e eu tente adivinhar.
 # Quando eu acertar o codigo deve dizer quantas tentativas foram nescessarias para eu aceertar.
-from cmath import tan
+
 import random
 
 numaq = random.randint(0, 10)
