@@ -1,5 +1,4 @@
 
-Python
 
 import random
 from time import sleep
@@ -79,4 +78,3 @@ sleep(0.05)
 print(f'\033[41m{" Programa encerrado ":^90}\033[m')
 sleep(0.05)
 print(f'\n\n\n')
-
