@@ -7,7 +7,7 @@ import random
 
 numaq = random.randint(0, 10)
 
-print('\n\n\n pensei em um número... \nVou te dar \033[43m5\033[m chances de acertar')
+print('\n\n\n pensei em um número de 0 até 10... \nVou te dar \033[43m5\033[m chances de acertar')
 escolha = int(input('\nQual você acha que é ?? \n \033[33m>>>\033[m '))
 tantas = 1 
 
