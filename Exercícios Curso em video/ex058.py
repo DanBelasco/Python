@@ -30,6 +30,6 @@ elif tantas == 2:
 elif tantas == 3:
     print('\nFoi sorte..\n\n')
 elif tantas == 4:
-    print('\nJá tava quase perdendo rsrs\n\n')
+    print('\nJá estava quase perdendo rsrs\n\n')
 elif tantas == 5:
-    print('\nMas que cagada acertou na ultima chance hahaha\n\n')
+    print('\nMas que sorte acertou na ultima chance hahaha\n\n')
