@@ -1,4 +1,4 @@
-# Python
+# Python  :snake:
 
 Projects / Skills development :man_student:
  
