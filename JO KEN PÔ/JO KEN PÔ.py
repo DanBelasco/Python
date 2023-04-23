@@ -2,7 +2,7 @@
 
 import random
 from time import sleep
-from unittest import result
+
 
 sleep(0.05)
 print(f'\n\n\n{"":=^90}')
