@@ -19,11 +19,6 @@ for c in range(0,total):
 
 
 
-
-
-
-
-
 print('\n\n')
 print(f'\033[41m{" Programa encerrado ":^90}\033[m')
 print('\n\n')
