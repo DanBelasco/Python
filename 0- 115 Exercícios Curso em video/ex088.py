@@ -16,8 +16,7 @@ for c in range(0,total):
     print(f'{sorted(jogo)}')
     print('')
     jogo.clear()
-
-
+    
 
 print('\n\n')
 print(f'\033[41m{" Programa encerrado ":^90}\033[m')
