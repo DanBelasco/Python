@@ -1,6 +1,6 @@
 # Python  :snake:
 
-Projects / Skills development :man_student:
+_Projects / Skills development_ :man_student:
  
 🇧🇷  Nesse módulo disponho alguns projetos de aprendizagem de vários níveis de dificuldade. Em linguagem **Python** ou que contenham **Python**. 
 
