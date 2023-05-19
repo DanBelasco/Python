@@ -61,11 +61,11 @@ def mult():
 def sub():
     global atualdatela
     atualdatela = tela.get()
-    if len(atualdatela) == 0 :   #conferindo se ja existe digito na tela para poder adicionar o simbolo de Sub na frente
+    if len(atualdatela) == 0 :   #conferindo se ja existe digitos na tela para poder adicionar o simbolo de Sub na frente
         tela.insert(0,'-')
     else:
         global mat
-        mat = 'subtrair'          #caso ja tenha, deve prossefuir com a operação normalmente
+        mat = 'subtrair'          #caso ja tenha, deve prosseguir com a operação normalmente
     
         tela.delete(0,END)
     
