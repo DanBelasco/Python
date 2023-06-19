@@ -26,3 +26,6 @@ This code already has its largest functional portion, but some particularities a
 The program contains files that make them personalized, so be careful when loading them into the correct folders on your desktop, such as icon and background files, for example.
 
 *D&D databook* was initially thought of as a queryable and writeable database for _RPG_ players, using the desktop. It can be expanded to new uses and even be incorporated into a real game or its development by using a flexible database.
+
+<div align="center">
+<img src="https://github.com/DanBelasco/Python/blob/8fe0df904f7fc32b689950a17a4f88198b599a67/7-%20D%26D%20Data%20Book/ded.bmp" width="200px" />
