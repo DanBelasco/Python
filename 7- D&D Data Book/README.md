@@ -2,6 +2,8 @@
 
 _This is a Project to skill development_ :man_student:
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanBelasco/Python/blob/main/LICENSE)
+
 🇧🇷  Nesse projeto disponho de um código de minha autoria, chamado *D&D databook*.
 Sua função inicial é de armazenar e consultar uma base de dados local, com filtros e menssagems dinâmicas, dentro de uma interface gráfica personalizada.
 
