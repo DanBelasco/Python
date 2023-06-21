@@ -29,5 +29,10 @@ The program contains files that make them personalized, so be careful when loadi
 
 *D&D databook* was initially thought of as a queryable and writeable database for _RPG_ players, using the desktop. It can be expanded to new uses and even be incorporated into a real game or its development by using a flexible database.
 
+## Layout 1
 <div align="center">
 <img src="https://github.com/DanBelasco/Python/blob/8fe0df904f7fc32b689950a17a4f88198b599a67/7-%20D%26D%20Data%20Book/ded.bmp" width="200px" />
+
+## Layout 2
+<div align="center">
+<img src=" " width="200px" />
