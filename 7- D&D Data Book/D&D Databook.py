@@ -6,7 +6,7 @@ import sqlite3
 
 def mensAbertura():
     jan5 = tk.Tk()
-    labaum = tk.Label(jan5, text='D&D Data Book',font=('Times New Roman','60'), fg='RED', bg='white', highlightthickness=9)
+    labaum = tk.Label(jan5, text='D&D Databook',font=('Times New Roman','60'), fg='RED', bg='white', highlightthickness=9)
     labaum.pack()
 
     jan5.overrideredirect(True)
