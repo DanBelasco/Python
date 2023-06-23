@@ -29,10 +29,24 @@ The program contains files that make them personalized, so be careful when loadi
 
 *D&D databook* was initially thought of as a queryable and writeable database for _RPG_ players, using the desktop. It can be expanded to new uses and even be incorporated into a real game or its development by using a flexible database.
 
+## Technologies
+### Back end
+- Python
+### Front end
+- Python/TKinter
+### Implementation
+- Mysqlite
+
+
 ## Layout 1
 <div align="center">
-<img src="https://github.com/DanBelasco/Python/blob/8fe0df904f7fc32b689950a17a4f88198b599a67/7-%20D%26D%20Data%20Book/ded.bmp" width="200px" />
+<img src="https://github.com/DanBelasco/Python/blob/8fe0df904f7fc32b689950a17a4f88198b599a67/7-%20D%26D%20Data%20Book/ded.bmp" width="400px" />
 
+
+<div align="left">
+  
 ## Layout 2
+
 <div align="center">
-<img src=" " width="200px" />
+<img src="https://github.com/DanBelasco/Python/blob/0ef93a66f2c5470c2939c7a6c19652909fac0c8d/7-%20D%26D%20Data%20Book/ss1png.png" width="500px" />
+
